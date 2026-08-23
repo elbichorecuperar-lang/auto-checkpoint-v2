@@ -1,0 +1,9 @@
+{
+  "geode": "3.0.0",
+  "version": "v1.0.0",
+  "id": "elbichor.auto-checkpoint",
+  "name": "Auto Checkpoint",
+  "developer": "ElBichor",
+  "description": "Un mod para colocar checkpoints automáticos.",
+  "dependencies": []
+}
